@@ -5,7 +5,7 @@ A simple [BreakOut]() game built as a jQuery plugin.
 ## Installation
 
 1. Make sure you got [jQuery](http://jquery.com/).
-2. Download [blocks14.js](http://x3e.org:7990/projects/BTH/repos/blocks-14/browse/js/blocks14.js) and add it to your website files.
+2. Download [blocks14.js](https://github.com/simonibitar/blocks14/blob/master/blocks14.js) and add it to your website files.
 3. Add a reference to ```blocks14.js```.
 
 ```html
