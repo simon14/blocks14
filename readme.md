@@ -63,7 +63,7 @@ All the available options are the following:
 });
 ```
 
-For a full specification and description of the options please see [configuration.md]().
+For a full specification and description of the options please see [configuration.md](https://github.com/simonibitar/blocks14/blob/master/configuration.md).
 
 ## Demo
  

@@ -31,7 +31,7 @@ ballHeight: 10
 
 You can change the colors of the player, the ball and the blocks. Player, ball and score got a single color option while the blocks have multicolor options.
 
-Player and ball
+**Player and ball**
 
 ```javascript
 playerColor: "#000000"
@@ -39,13 +39,13 @@ ballColor: "#000000"
 scoreColor: "#000000"
 ```
 
-Single block color
+**Single block color**
 
 ```javascript
 blockColors: [{color:"#000000"}]
 ```
 
-Multiple block color
+**Multiple block color**
 
 ```javascript
 blockColors: [{color:"#000000"}, {color:"#0000FF"}, {color:"#00FF00"}]
@@ -77,14 +77,14 @@ The option ```blockScore``` decides the amount of points awarded for every block
 
 There is a few alternatives to style the game. Margins will allow you to decide the space between the blocks but also how far from the edges the blockgroup will be.
 
-Block
+**Block**
 
 ```javascript
 blockMargin: 5
 ```
 This will give every block a margin of 5px to the right side and the bottom.
 
-Block group
+**Block group**
 
 ```javascript
 topMargin: 20
